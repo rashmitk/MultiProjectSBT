@@ -1,3 +1,4 @@
+//build.sbt for base project i.e. MultiProjectSBT
 
 name := "MultiProjectSBT"
 
